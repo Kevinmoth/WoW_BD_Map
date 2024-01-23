@@ -1,6 +1,6 @@
 # WoW_BD_Map
 
-Este pequeño script en Python está diseñado para convertir datos de la base de datos de diferentes servidores en comandos compatibles con el complemento TomTom.
+Este pequeño script en Python está diseñado para convertir datos de la web BD de diferentes servidores en comandos compatibles con el complemento TomTom.
 
 **Uso:**
 1. Ubica el elemento que deseas mapear.
